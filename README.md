@@ -32,7 +32,7 @@ Click the button above to launch Google Cloud Shell and start using the program 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/SimpleDiceRoller.git
+    git clone https://github.com/Abhishek88788/SimpleDiceRoller.git
     ```
 2. **Navigate to the project directory:**
     ```bash
