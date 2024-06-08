@@ -9,6 +9,14 @@ Welcome to **Simple Dice Roller** – your ultimate companion for a virtual dice
 - 🔁 **Continuous Rolling**: Press 'r' or 'R' to roll again.
 - 🚪 **Easy Exit**: Press any other key to exit.
 - 💻 **Precompiled Executable**: Includes a ready-to-use `dice.exe` for quick execution on Windows.
+## 💻 System Requirements (Windows)
+
+To run this program on Windows, ensure that you have the following:
+
+- **Operating System**: Windows 7 or later
+- **Compiler**: GCC (GNU Compiler Collection) or any C compiler compatible with your Windows version
+
+Ensure that your system meets these requirements to compile and run the program successfully on Windows.
 
 ## 🚀 How to Use
 ### 📱 Run Online with Google Cloud Shell
@@ -20,6 +28,9 @@ You can also run the program directly online using Google Cloud Shell:
 Click the button above to launch Google Cloud Shell and start using the program right away!
 
 
+
+
+
 ### 🪟 Windows
 
 #### Using Precompiled Executable
@@ -27,7 +38,13 @@ Click the button above to launch Google Cloud Shell and start using the program 
 1. **Download the `dice.exe` file** from the repository.
 2. **Run `dice.exe`** by double-clicking it.
 3. Follow the on-screen instructions to roll the dice.
+### 📥 Download
 
+If you prefer not to compile the program from source, you can download the precompiled executable for Windows:
+
+- [Download dice.exe](https://github.com/yourusername/SimpleDiceRoller/raw/main/dice.exe)
+
+Simply download the `dice.exe` file and run it on your Windows system to start using the program.
 #### Compiling from Source
 
 1. **Clone the repository:**
