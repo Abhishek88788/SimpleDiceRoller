@@ -1,4 +1,4 @@
-# 🎲 Simple Dice Roller
+//# 🎲 Simple Dice Roller
 
 Welcome to **Simple Dice Roller** – your ultimate companion for a virtual dice-rolling experience! This lightweight and efficient C program generates a random number between 1 and 6 and displays the corresponding dice face. Perfect for board games or just for fun!
 
@@ -74,7 +74,7 @@ Click the button above to launch Google Cloud Shell and start using the program 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/SimpleDiceRoller.git
+    git clone https://github.com/Abhishek88788/SimpleDiceRoller.git
     ```
 2. **Navigate to the project directory:**
     ```bash
