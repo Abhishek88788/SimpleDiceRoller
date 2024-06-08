@@ -11,6 +11,14 @@ Welcome to **Simple Dice Roller** – your ultimate companion for a virtual dice
 - 💻 **Precompiled Executable**: Includes a ready-to-use `dice.exe` for quick execution on Windows.
 
 ## 🚀 How to Use
+### 📱 Run Online with Google Cloud Shell
+
+You can also run the program directly online using Google Cloud Shell:
+
+[![Run on Google Cloud](https://img.shields.io/badge/Run%20on-Google%20Cloud-blue?logo=google-cloud)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Abhishek88788/SimpleDiceRoller.git&cloudshell_open_in_editor=dice_roller.c)
+
+Click the button above to launch Google Cloud Shell and start using the program right away!
+
 
 ### 🪟 Windows
 
