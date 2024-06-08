@@ -47,47 +47,6 @@ Click the button above to launch Google Cloud Shell and start using the program 
     dice_roller
     ```
 
-### 🍏 macOS
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/SimpleDiceRoller.git
-    ```
-2. **Navigate to the project directory:**
-    ```bash
-    cd SimpleDiceRoller
-    ```
-3. **Install GCC if not already installed:**
-    ```bash
-    brew install gcc
-    ```
-4. **Compile the program:**
-    ```bash
-    gcc -o dice_roller dice_roller.c
-    ```
-5. **Run the executable:**
-    ```bash
-    ./dice_roller
-    ```
-
-### 🐧 Linux
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/Abhishek88788/SimpleDiceRoller.git
-    ```
-2. **Navigate to the project directory:**
-    ```bash
-    cd SimpleDiceRoller
-    ```
-3. **Compile the program:**
-    ```bash
-    gcc -o dice_roller dice_roller.c
-    ```
-4. **Run the executable:**
-    ```bash
-    ./dice_roller
-    ```
 
 ## 📊 Example Output
        -------
