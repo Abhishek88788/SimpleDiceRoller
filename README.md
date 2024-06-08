@@ -82,4 +82,39 @@ Welcome to **Simple Dice Roller** – your ultimate companion for a virtual dice
     ```
 
 ## 📊 Example Output
+       -------
+      | .   . |
+      |   .   |
+      | .   . |
+       -------
+
+
+
+
+## 📸 Screenshots
+
+### Dice Faces
+
+<img src="images/dice_1.png" alt="Dice Face 1" width="300"> 
+<img src="images/dice_2.png" alt="Dice Face 2" width="300"> 
+<img src="images/dice_3.png" alt="Dice Face 3" width="300"> 
+<img src="images/dice_4.png" alt="Dice Face 4" width="300"> 
+<img src="images/dice_5.png" alt="Dice Face 5" width="300"> 
+<img src="images/dice_6.png" alt="Dice Face 6" width="300">
+
+
+
+
+## 🤝 Contribution
+
+Feel free to fork this repository, add new features, or fix bugs. Pull requests are welcome!
+
+
+
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+
 
