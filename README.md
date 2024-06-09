@@ -1,4 +1,4 @@
-//# 🎲 Simple Dice Roller
+### 🎲 Simple Dice Roller
 
 Welcome to **Simple Dice Roller** – your ultimate companion for a virtual dice-rolling experience! This lightweight and efficient C program generates a random number between 1 and 6 and displays the corresponding dice face. Perfect for board games or just for fun!
 
