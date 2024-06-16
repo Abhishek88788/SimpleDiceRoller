@@ -42,7 +42,7 @@ Click the button above to launch Google Cloud Shell and start using the program 
 
 If you prefer not to compile the program from source, you can download the precompiled executable for Windows:
 
-- [Download dice.exe](https://github.com/yourusername/SimpleDiceRoller/raw/main/dice.exe)
+- [Download dice.exe](https://github.com/Abhishek88788/SimpleDiceRoller/raw/main/dice.exe)
 
 Simply download the `dice.exe` file and run it on your Windows system to start using the program.
 #### Compiling from Source
